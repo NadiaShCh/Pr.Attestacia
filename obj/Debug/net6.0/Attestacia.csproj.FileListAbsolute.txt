@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Attestacia\bin\Debug\net6.0\Attestacia.exe
+C:\Users\user\Desktop\Attestacia\bin\Debug\net6.0\Attestacia.deps.json
+C:\Users\user\Desktop\Attestacia\bin\Debug\net6.0\Attestacia.runtimeconfig.json
+C:\Users\user\Desktop\Attestacia\bin\Debug\net6.0\Attestacia.dll
+C:\Users\user\Desktop\Attestacia\bin\Debug\net6.0\Attestacia.pdb
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.AssemblyInfo.cs
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.dll
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\refint\Attestacia.dll
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.pdb
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\Attestacia.genruntimeconfig.cache
+C:\Users\user\Desktop\Attestacia\obj\Debug\net6.0\ref\Attestacia.dll
